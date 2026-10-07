@@ -39,7 +39,7 @@ Trabajé conceptos relacionados con bases de datos relacionales y SQL, explorand
 
 **Herramientas:** SQL y modelado de bases de datos.
 
-**Repositorio:** Pendiente de incorporar.
+**Repositorio:** https://github.com/DanielaPazH/AlkeWalletBasedeDatos
 
 ### 3. Alke Wallet - Aplicación Web MVC
 
